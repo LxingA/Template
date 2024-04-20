@@ -53,6 +53,7 @@ function ck_func_header_template(): string {
                     Índice Global
                 </span>
             </a>
+            <div class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0"/>
             <div class="col-md-3 text-end">
                 <button class="btn btn-outline-primary me-2" type="button" id="ck_button_theming">
                     <i class="fa-regular fa-sun"></i>
